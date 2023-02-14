@@ -17,9 +17,6 @@ First-time Login Menu:
 Search for Other Users:
 ![Finding Other Users](https://user-images.githubusercontent.com/93954184/218000789-7edc5d92-bdd3-4523-a514-722261df8390.png)
 
-Adding Users:
-![Finding Other Users](https://user-images.githubusercontent.com/93954184/218000789-7edc5d92-bdd3-4523-a514-722261df8390.png)
-
 Making a new Conversation:
 ![Making a New Convo](https://user-images.githubusercontent.com/93954184/218000788-ec795406-4e60-4001-a4c6-aeb856508284.png)
 
@@ -34,9 +31,5 @@ Both Users at the Same Time:
 
 Group Chat:
 ![Convo Between Multiple](https://user-images.githubusercontent.com/93954184/218000780-20bab48b-bdbd-4644-a753-0872768d2930.png)
-
-
-
-
 
 
